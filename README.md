@@ -47,7 +47,7 @@ Open index.html in your browser.
 🌟 Screenshots
 
 <br> 
-Home Screen :-
+Home Screen / Ligth Mode :-
 
 ![image](https://github.com/user-attachments/assets/12da15cc-bacc-4f86-85d5-11dc5ef916b2)
 <br><br>
