@@ -1,4 +1,4 @@
-![Screenshot 2025-02-22 140647](https://github.com/user-attachments/assets/eefc99e6-1d42-46a4-b822-41eb918555d7)# MovieFlix-MovieFlix - Movie Booking App
+MovieFlix - Movie Booking App
 
 MovieFlix is a web application that allows users to explore and book movies effortlessly. Users can search for their favorite movies, filter by categories, and switch between light and dark themes for an enhanced browsing experience.
 
