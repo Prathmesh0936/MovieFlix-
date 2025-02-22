@@ -62,6 +62,9 @@ Comedy:-
 <br><br>
 Search Result:-
 ![image](https://github.com/user-attachments/assets/df2b1612-5abf-46c3-aca7-cfb21bef26ed)
+<br><br>
+Dark Mode :-
+![image](https://github.com/user-attachments/assets/007abf0b-3dad-48c0-a711-1759bc6ab98c)
 <br>
 
 
