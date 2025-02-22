@@ -47,8 +47,9 @@ Open index.html in your browser.
 🌟 Screenshots
 
 <br> 
+<br><br>
 ![image](https://github.com/user-attachments/assets/12da15cc-bacc-4f86-85d5-11dc5ef916b2)
-
+<br><br>
 <br><br>
 ![image](https://github.com/user-attachments/assets/4fa5f773-08d2-462b-a4bd-86977c58fd14)
 <br><br>
