@@ -50,8 +50,6 @@ Open index.html in your browser.
 
 ![image](https://github.com/user-attachments/assets/12da15cc-bacc-4f86-85d5-11dc5ef916b2)
 <br><br>
-![image](https://github.com/user-attachments/assets/12da15cc-bacc-4f86-85d5-11dc5ef916b2)
-<br><br>
 ![image](https://github.com/user-attachments/assets/4fa5f773-08d2-462b-a4bd-86977c58fd14)
 <br><br>
 ![image](https://github.com/user-attachments/assets/e6597fcf-a7fc-4479-a7fc-a8a40e9f3dae)
