@@ -47,15 +47,20 @@ Open index.html in your browser.
 🌟 Screenshots
 
 <br> 
+Home Screen :-
 
 ![image](https://github.com/user-attachments/assets/12da15cc-bacc-4f86-85d5-11dc5ef916b2)
 <br><br>
+Science Fiction :-
 ![image](https://github.com/user-attachments/assets/4fa5f773-08d2-462b-a4bd-86977c58fd14)
 <br><br>
+Action :-
 ![image](https://github.com/user-attachments/assets/e6597fcf-a7fc-4479-a7fc-a8a40e9f3dae)
 <br><br>
+Comedy:-
 ![image](https://github.com/user-attachments/assets/4246e7b3-7d60-41bd-ba37-cdff96020ad9)
 <br><br>
+Search Result:-
 ![image](https://github.com/user-attachments/assets/df2b1612-5abf-46c3-aca7-cfb21bef26ed)
 <br>
 
