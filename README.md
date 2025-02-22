@@ -47,15 +47,15 @@ Open index.html in your browser.
 🌟 Screenshots
 
 <br> 
-![Screenshot 2025-02-22 140614](https://github.com/user-attachments/assets/0edf5420-32c4-4b4c-b646-b5773a5c63fa)
+![image](https://github.com/user-attachments/assets/0edf5420-32c4-4b4c-b646-b5773a5c63fa)
 <br><br>
-![Screenshot 2025-02-22 140638](https://github.com/user-attachments/assets/4fa5f773-08d2-462b-a4bd-86977c58fd14)
+![image](https://github.com/user-attachments/assets/4fa5f773-08d2-462b-a4bd-86977c58fd14)
 <br><br>
-![Screenshot 2025-02-22 140647](https://github.com/user-attachments/assets/e6597fcf-a7fc-4479-a7fc-a8a40e9f3dae)
+![image](https://github.com/user-attachments/assets/e6597fcf-a7fc-4479-a7fc-a8a40e9f3dae)
 <br><br>
-![Screenshot 2025-02-22 140655](https://github.com/user-attachments/assets/4246e7b3-7d60-41bd-ba37-cdff96020ad9)
+![image](https://github.com/user-attachments/assets/4246e7b3-7d60-41bd-ba37-cdff96020ad9)
 <br><br>
-![Screenshot 2025-02-22 140802](https://github.com/user-attachments/assets/df2b1612-5abf-46c3-aca7-cfb21bef26ed)
+![image](https://github.com/user-attachments/assets/df2b1612-5abf-46c3-aca7-cfb21bef26ed)
 
 
 
